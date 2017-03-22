@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-15T10:50:32.433Z</updated>
+  <updated>2017-03-22T21:59:06.627Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some Git Commands</title>
+    <link href="http://yoursite.com/2017/03/23/git-command/"/>
+    <id>http://yoursite.com/2017/03/23/git-command/</id>
+    <published>2017-03-22T20:51:18.000Z</published>
+    <updated>2017-03-22T21:59:06.627Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="删除GitHub上的远程分支"><a href="#删除GitHub上的远程分支" class="headerlink" title="删除GitHub上的远程分支"></a>删除GitHub上的远程分支</h3><p>命令：$「 Git push origin」+「空格」+「冒号」+「分支名字」；<br>该命令推送了空分支，相当于删除。</p>
+<p>举个例子：GitHub上有master和gh-pages分支，现在要删除gh-pages分支，命令如下：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git push origin :gh-pages</div></pre></td></tr></table></figure>
+<p>参考链接：<a href="http://blog.csdn.net/android_caishengyan/article/details/49337065" title="如何删除github上的远程分支-android_caishengyan" target="_blank" rel="external">如何删除github上的远程分支</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;删除GitHub上的远程分支&quot;&gt;&lt;a href=&quot;#删除GitHub上的远程分支&quot; class=&quot;headerlink&quot; title=&quot;删除GitHub上的远程分支&quot;&gt;&lt;/a&gt;删除GitHub上的远程分支&lt;/h3&gt;&lt;p&gt;命令：$「 Git push origin」
+    
+    </summary>
+    
+      <category term="Tech Notes" scheme="http://yoursite.com/categories/Tech-Notes/"/>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
