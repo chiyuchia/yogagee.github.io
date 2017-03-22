@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-22T21:59:06.627Z</updated>
+  <updated>2017-03-22T22:03:55.419Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/03/23/git-command/"/>
     <id>http://yoursite.com/2017/03/23/git-command/</id>
     <published>2017-03-22T20:51:18.000Z</published>
-    <updated>2017-03-22T21:59:06.627Z</updated>
+    <updated>2017-03-22T22:03:55.419Z</updated>
     
     <content type="html"><![CDATA[<h3 id="删除GitHub上的远程分支"><a href="#删除GitHub上的远程分支" class="headerlink" title="删除GitHub上的远程分支"></a>删除GitHub上的远程分支</h3><p>命令：$「 Git push origin」+「空格」+「冒号」+「分支名字」；<br>该命令推送了空分支，相当于删除。</p>
 <p>举个例子：GitHub上有master和gh-pages分支，现在要删除gh-pages分支，命令如下：</p>

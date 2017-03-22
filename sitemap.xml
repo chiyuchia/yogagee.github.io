@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-03-22T22:16:52.796Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/03/23/git-command/</loc>
     
-    <lastmod>2017-03-22T21:59:06.627Z</lastmod>
+    <lastmod>2017-03-22T22:03:55.419Z</lastmod>
     
   </url>
   
